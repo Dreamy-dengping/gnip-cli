@@ -1,0 +1,22 @@
+{
+  "name": "gnip-cli",
+  "version": "1.0.0",
+  "description": "gnip-cli",
+  "main": "index.js",
+  "bin": {
+    "gnip": "./index.js"
+  },
+  "scripts": {},
+  "keywords": [
+    "cli"
+  ],
+  "author": "gnip",
+  "license": "ISC",
+  "devDependencies": {
+    "commander": "^9.4.0",
+    "download-git-repo": "^3.0.2"
+  },
+  "dependencies": {
+    "inquirer": "^9.1.1"
+  }
+}
